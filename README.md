@@ -1,4 +1,4 @@
-[![Colab](https://colab.research.google.com/assets/colab-badge.svg)]
+![Colab](https://colab.research.google.com/assets/colab-badge.svg)
 
 # Exploring RAG Techniques and Tools
 
